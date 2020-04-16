@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/craftizmv/NodeJs.git"
+    "url": "https://github.com/craftizmv/NodeJs.git"
   },
   "author": "Mayank Verma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/craftizmv/NodeJs/issues"
   },
-  "homepage": "https://github.com/craftizmv/NodeJs#readme"
+  "homepage": "https://github.com/craftizmv/NodeJs#readme",
+  "dependencies": {
+    "supervillains": "^3.0.0"
+  }
 }
